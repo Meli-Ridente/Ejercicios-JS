@@ -1,0 +1,1 @@
+En base a la api de Star Wars(https://akabab.github.io/starwars-api/api), vamos a desarrollar una página dinámicamente en la que visualizar una galería con las imagenes y los nombres de los personajes de la serie. Para ellos es necesario usar el endpoint ''.
